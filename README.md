@@ -7,6 +7,8 @@
  
  
  # Screenshot
+ Click on above link to get better view of the Project
+ 
 ![px11](https://user-images.githubusercontent.com/109414883/230722467-c2ec1afc-58c1-47cb-a2f6-cc006f322faa.png)
 
 ![px22](https://user-images.githubusercontent.com/109414883/230722469-f04ee872-72dd-4ee5-8d28-a9407b331704.png)
