@@ -1,5 +1,5 @@
 # parallelX-Effect_HTML-CSS
- Parallax scrolling is a special scrolling technique used in web design where background images throughout a web page move slower than foreground images, creating an illusion of depth on a two-dimensional site.
+ Parallax scrolling is a special scrolling technique used in web design where background images throughout a web page move slower than foreground images, creating an illusion of depth on a two-dimensional site.This ParallelX project is not Responsive as it contain Simple HTML and CSS properties you can watch it on Big Device to better Understand how it works.
  
  # Watch Live in Your Browser
  
